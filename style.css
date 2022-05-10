@@ -1,9 +1,8 @@
 body {
-    background-color: #6D3D14;
+    background-color: #c2a712;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 }
-
-
 .pizza {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border: 1px solid orange;
@@ -27,6 +26,7 @@ body {
 
 .contacts {
     background-color: #E6ADEC;
+    
 }
 
 @media (min-width: 750px) {
